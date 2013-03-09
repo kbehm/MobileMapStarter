@@ -9,8 +9,8 @@
         A starting framework for mobile maps using Cordova/Phonegap. A minimal but functional, standalone mobile app from which to build your own creations.
         For more information, see the Github repository https://github.com/gregallensworth/MobileMapStarter
     </description>
-    <author href="http://www.greeninfo.org/" email="gregor@greeninfo.org">
-        Greg Allensworth @ GreenInfo Network
+    <author href="http://www.acrpc.org/" email="kbehm@acrpc.org">
+        Kevin Behm @ ACRPC
     </author>
 
     <!-- THE ICON -->
